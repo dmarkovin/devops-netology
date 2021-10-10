@@ -14,4 +14,5 @@ override.tf.json
  tfplan- Не исключать файлы.
 Игнорировать файлы .terraformrc
 terraform.rc
-Заполнить файл сбоев crash.log.
+Заполнить файл сбоев crash.log
+new line fix
